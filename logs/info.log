@@ -1,0 +1,106 @@
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - Skipping co.gov.icfes.emailvalidator.Registro.log
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / mapping strategy: class org.csveed.bean.ColumnIndexMapper
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config | Column index 1 -> property [usuaId] | Required: yes
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config | Column index 2 -> property [errManual] | Required: no
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config | Column index 3 -> property [email1] | Required: no
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config | Column index 4 -> property [email2] | Required: no
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config | Column index 5 -> property [email3] | Required: no
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / skip empty lines? yes
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / has header line? yes
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / skip comment lines? yes
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / start line: 1
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / Characters for SPACE_SYMBOL   
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / Characters for SEPARATOR_SYMBOL ; 
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / Characters for QUOTE_SYMBOL " 
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / Characters for ESCAPE_SYMBOL " 
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / Characters for EOL_SYMBOL \r \n 
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - CSV config / Characters for COMMENT_SYMBOL # 
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - - Triggering EOL character: 13
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:00 - Cont. Reg -> 21350
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113954868 invalid email: ceneduca±oviejo@semmonteria.gov.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 13387 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 18592 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113700592 invalid email: colejuaneva@edatel
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 18818 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 110243 invalid email: rector@liceo
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113700653 invalid email: iebombonß@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 11158885 invalid email: Crayolaylßpiz8@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 11158891 invalid email: GIMCANDIVINI�?O@HOTMAIL.COM
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 112622 invalid email: iesma..sonson@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113946786 invalid email: ieyarumitobarbosa@tare
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 14678 invalid email: ieyarumitobarbosa@tare
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 17751 invalid email: wilmar.chinc
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 17842 invalid email: ied.hildamu±oz@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113700770 invalid email: mailto:coordinacionceb089@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113945872 invalid email: escdisanmartindepo2@redp.edu.co -- escsanmatindepo2@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113945873 invalid email: cedquirogaalianza18@redp.edu.co  --  colquirogaalianza18@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113945874 invalid email: cedquirogaalianza18@redp.edu.co  --  colquirogaalianza18@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 11587 invalid email: iersan josenus@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 11738 invalid email: cedjuanevangelist4@redp.edu.co / cedjuanevangelist4@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 17957 invalid email: colben6@yahoo.com -- benpostabog@col1telecom.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 16616 invalid email: iemmf@yahoo:es
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 19645 invalid email: presentacion gta@une.net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 19687 invalid email: fcuis@epm,net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 114230 invalid email: FABITO 16@IXP.NET
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12118 invalid email: colejuaneva@edatel
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 1117488 invalid email: personitas@telesat.
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 14277 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 18137 invalid email: gnv@ert
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113701027 invalid email: insedupart¾@edatel.net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 14454 invalid email: Colsimbol�?varlatin@mail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 18163 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 18167 invalid email: claudia52279@.com.ar
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 18332 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 11152581 invalid email: col.sol.@epm.net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113945117 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113945118 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 15420 invalid email: diegohernandez@sembarrancabermeja
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 112247 invalid email: ce_ni±ojesus@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 1115653 invalid email: iebombonß@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113945257 invalid email: ied.hildamu±oz@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113948876 invalid email: cerelpi±al@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 15529 invalid email: sant�?simatrinidad07@yahoo.es
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113958451 invalid email: ceindigenista.@semturbo.gov.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113966912 invalid email: iedrcop¾@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113966923 invalid email: iedrcop¾@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113700322 invalid email: liceolapradera@hotmail.c
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 19356 invalid email: rojasorjuela@teletuluß.com.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 19387 invalid email: gimnasiolacampi±a@yahoo.es
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113982238 invalid email: ce_ni±ojesus@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113979624 invalid email: egracol2013@zudey0316@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113979625 invalid email: egracol2013@zudey0316@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113747194 invalid email: humher302@hotmailcom
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113980998 invalid email: colegiopeque±ospitufos@yahoo.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113976413 invalid email: www.politecnicosiglo21@.hotmail
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12111932564 invalid email: diegohernandez@sembarrancabermeja
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113744250 invalid email: colombo_espa±ol@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113987146 invalid email: colpeque�?itos@etb.net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113970082 invalid email: iedagroindustrialesch.@yahoo.es
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113981151 invalid email: MiPeque±oMundo@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113985872 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113985910 invalid email: forjadoresdelma±ana@yahoo.es
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113988684 invalid email: IEPOLICARPASALAVARRIETA@SEMMON
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113982742 invalid email: (administracion o coordinacion@fundacionestructurar.org)
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12112122841 invalid email: insedupart¾@edatel.net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113983189 invalid email: peque±oslideres@une.net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113983672 invalid email: mipeque±otaller2009@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113987422 invalid email: cmnazareth@telenari±o.com.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 2113985992 invalid email: casitasue±os@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113750588 invalid email: gmtc@.etb.net.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113752361 invalid email: rectoriafpd@gmail. com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113752947 invalid email: purificaci¾ngrueso@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113752280 invalid email: lumunoz05.@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113752668 invalid email: c..e.r.launion@tareanet.edu.co
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113755173 invalid email: ERROR
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113755939 invalid email: lauríthquintero3041@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113749242 invalid email: colcolomboinglÚs@yahoo.es
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113744918 invalid email: (administracion o coordinacion@fundacionestructurar.org)
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113755697 invalid email: colegioelmundodelosni±os@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113746153 invalid email: joangoz@hotmail.com>
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113746660 invalid email: ca±amomo@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113753111 invalid email: purificaci¾ngrueso@hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113744675 invalid email: ANDRES.SARMIENTO@DELASALLE.EDU.C
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113754345 invalid email: forjadoresdelma±ana@yahoo.es
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113753165 invalid email: maynemi@.hotmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113757073 invalid email: nilsonleoruiz11.@gmail.com
+[  INFO] Fecha: 08-05-2017 Hora: 17:04:01 - uduaId: 12113757409 invalid email: ERROR

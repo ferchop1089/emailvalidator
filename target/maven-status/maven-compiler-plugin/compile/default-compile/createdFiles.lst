@@ -1,5 +1,6 @@
-co/gov/icfes/emailvalidator/Starter.class
-co/gov/icfes/emailvalidator/MainApp.class
-co/gov/icfes/emailvalidator/FXMLController.class
-co/gov/icfes/emailvalidator/Registro.class
-co/gov/icfes/emailvalidator/util/log4j/ColoredPatternLayout.class
+co\gov\icfes\emailvalidator\FXMLController.class
+co\gov\icfes\emailvalidator\Registro.class
+co\gov\icfes\emailvalidator\Starter.class
+co\gov\icfes\emailvalidator\util\log4j\ColoredPatternLayout.class
+co\gov\icfes\emailvalidator\MainApp.class
+co\gov\icfes\emailvalidator\Registro2.class
